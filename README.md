@@ -167,7 +167,7 @@ They can be used to detect patterns in data or to represent complex interactions
 
 Anaconda is a Python and R programming language distribution aimed for simplifying package management and deployment in scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, and so on).
 ```
-Developer(s)	Anaconda, Inc. (previously Continuum Analytics)
+Developer - Anaconda, Inc. (previously Continuum Analytics)
 Initial release	- 0.8.0/17 July 2012; 9 years ago
 Stable release - 2021.05 / 13 May 2021; 6 months ago
 Written in	Python
