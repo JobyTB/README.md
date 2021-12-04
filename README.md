@@ -1,6 +1,6 @@
 # NEURAL NETWORK
 
-Neural networks are a type of machine learning learning technique that is loosely based on the concept of biological neural networks. In general, neural networks are self-optimizing functions that translate inputs to the expected output. The function can then take a fresh input and estimate an output based on the function it established with the dataset. The key metrics of Neural Networks are :
+Neural networks are a type of machine learning technique that is loosely based on the concept of biological neural networks. In general, neural networks are self-optimizing functions that translate inputs to the expected output. The function can then take a fresh input and estimate an output based on the function it established with the dataset. The key metrics of Neural Networks are :
 **Accuracy:** Accuracy defines the ratio of exact predictions to the total predications made which is equal to 95%. This is evaluated as (TP+TN)/(TP+TN+FP+FN)
 **Precision:** Precision defines how accurate the model is and it is equal to 92%. This is calculated as TP/(TP+FP).
 **Recall:** Recall defines the ratio of exactly predicted positive to all the observations and its is equal to 94%. This is calculated as TP/(TP+FN).
